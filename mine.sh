@@ -44,6 +44,13 @@ CHECKPOINT_MODELS=(
     "https://huggingface.co/camenduru/SUPIR/resolve/main/sd_xl_base_1.0_0.9vae.safetensors?download=true"
     "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0Q.ckpt?download=true"
     "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0F.ckpt?download=true"
+    "https://civitai.com/api/download/models/1569593?type=Model&format=SafeTensor&size=pruned&fp=fp16" #sdxl photoreal
+    "https://civitai.com/api/download/models/1588039?type=Model&format=SafeTensor&size=pruned&fp=fp16" #sdxl photoreal inpainting
+    "https://civitai.com/api/download/models/1763661?type=Model&format=SafeTensor&size=full&fp=fp16" #pony realism
+    "https://civitai.com/api/download/models/610021?type=Model&format=SafeTensor&size=full&fp=fp16" #pony realism inpaint
+    "https://civitai.com/api/download/models/987238?type=Model&format=SafeTensor&size=full&fp=fp16" #pony realism lightning
+    "https://civitai.com/api/download/models/1736657?type=Model&format=SafeTensor&size=pruned&fp=fp16" #Realism Illustrious
+    
 )
 
 CLIP_MODELS=(
@@ -58,6 +65,7 @@ VAE_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://civitai.com/api/download/models/1627770?type=Model&format=SafeTensor" 
 )
 
 ESRGAN_MODELS=(
