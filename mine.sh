@@ -19,24 +19,24 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/rgthree/rgthree-comfy.git" #RGThree ComfyUI Nodes for easy of use
-    "https://github.com/Fannovel16/comfyui_controlnet_aux.git" #Preprocess Controlnet Images (useful for inpaint)
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack.git" #Impact Pack for face detailer
-    "https://github.com/kijai/ComfyUI-SUPIR.git" #Super Resolution Upscale Image Restoration
-    "https://github.com/cubiq/ComfyUI_InstantID.git" #InstantID for face restoration
-    "https://github.com/WASasquatch/was-node-suite-comfyui.git" #WAS Node Suite
-    "https://github.com/kijai/ComfyUI-KJNodes.git" #KJNodes
-    "https://github.com/logtd/ComfyUI-Fluxtapoz.git" #Fluxtapoz
-    "https://github.com/florestefano1975/comfyui-portrait-master.git" #Portrait Master
-    "https://github.com/1038lab/ComfyUI-RMBG.git" #RMBG Node for ComfyUI
-    "https://github.com/Acly/comfyui-inpaint-nodes.git" #Inpaint Nodes for ComfyUI
-    "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git" #Inpaint Crop and Stitch
-    "https://github.com/talesofai/comfyui-browser.git" #ComfyUI Browser Node
-    "https://github.com/TheMistoAI/ComfyUI-Anyline.git" #Anyline Node for ComfyUI
-    "https://github.com/cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life.git" #Bringing Old Photos Back to Life
-    "https://github.com/cubiq/ComfyUI_FaceAnalysis.git" #Analysis Nodes
-    "https://github.com/hayd-zju/ICEdit-ComfyUI-official.git" #ICEdit Nodes for ComfyUI
-    "https://github.com/lldacing/ComfyUI_PuLID_Flux_ll.git" #PuLID Flux Nodes for ComfyUI
+    "https://github.com/rgthree/rgthree-comfy" #RGThree ComfyUI Nodes for easy of use
+    "https://github.com/Fannovel16/comfyui_controlnet_aux" #Preprocess Controlnet Images (useful for inpaint)
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack" #Impact Pack for face detailer
+    "https://github.com/kijai/ComfyUI-SUPIR" #Super Resolution Upscale Image Restoration
+    "https://github.com/cubiq/ComfyUI_InstantID" #InstantID for face restoration
+    "https://github.com/WASasquatch/was-node-suite-comfyui" #WAS Node Suite
+    "https://github.com/kijai/ComfyUI-KJNodes" #KJNodes
+    "https://github.com/logtd/ComfyUI-Fluxtapoz" #Fluxtapoz
+    "https://github.com/florestefano1975/comfyui-portrait-master" #Portrait Master
+    "https://github.com/1038lab/ComfyUI-RMBG" #RMBG Node for ComfyUI
+    "https://github.com/Acly/comfyui-inpaint-nodes" #Inpaint Nodes for ComfyUI
+    "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch" #Inpaint Crop and Stitch
+    "https://github.com/talesofai/comfyui-browser" #ComfyUI Browser Node
+    "https://github.com/TheMistoAI/ComfyUI-Anyline" #Anyline Node for ComfyUI
+    "https://github.com/cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life" #Bringing Old Photos Back to Life
+    "https://github.com/cubiq/ComfyUI_FaceAnalysis" #Analysis Nodes
+    "https://github.com/hayd-zju/ICEdit-ComfyUI-official" #ICEdit Nodes for ComfyUI
+    "https://github.com/lldacing/ComfyUI_PuLID_Flux_ll" #PuLID Flux Nodes for ComfyUI
 )
 
 CHECKPOINT_MODELS=(
