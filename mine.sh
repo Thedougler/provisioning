@@ -43,11 +43,11 @@ CHECKPOINT_MODELS=(
     "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0Q.ckpt?download=true"
     "https://huggingface.co/camenduru/SUPIR/resolve/main/SUPIR-v0F.ckpt?download=true"
     "https://civitai.com/api/download/models/1569593" #sdxl photoreal
-    "https://civitai.com/api/download/models/1588039" #sdxl photoreal inpainting
-    "https://civitai.com/api/download/models/1763661" #pony realism
-    "https://civitai.com/api/download/models/610021" #pony realism inpaint
-    "https://civitai.com/api/download/models/987238" #pony realism lightning
-    "https://civitai.com/api/download/models/1736657" #Realism Illustrious
+#    "https://civitai.com/api/download/models/1588039" #sdxl photoreal inpainting
+#    "https://civitai.com/api/download/models/1763661" #pony realism
+#    "https://civitai.com/api/download/models/610021" #pony realism inpaint
+#    "https://civitai.com/api/download/models/987238" #pony realism lightning
+#    "https://civitai.com/api/download/models/1736657" #Realism Illustrious
     
 )
 
