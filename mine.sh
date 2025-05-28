@@ -14,7 +14,7 @@ APT_PACKAGES=(
 
 PIP_PACKAGES=(
     "gdown"
-    "dlib"
+    #"dlib"
 )
 
 NODES=(
