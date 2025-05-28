@@ -35,6 +35,8 @@ NODES=(
     "https://github.com/TheMistoAI/ComfyUI-Anyline.git" #Anyline Node for ComfyUI
     "https://github.com/cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life.git" #Bringing Old Photos Back to Life
     "https://github.com/cubiq/ComfyUI_FaceAnalysis.git" #Analysis Nodes
+    "https://github.com/hayd-zju/ICEdit-ComfyUI-official.git" #ICEdit Nodes for ComfyUI
+    "https://github.com/lldacing/ComfyUI_PuLID_Flux_ll.git" #PuLID Flux Nodes for ComfyUI
 )
 
 CHECKPOINT_MODELS=(
