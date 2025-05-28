@@ -9,11 +9,12 @@
 DEFAULT_WORKFLOW="https://raw.githubusercontent.com/ai-dock/comfyui/main/config/workflows/flux-comfyui-example.json"
 
 APT_PACKAGES=(
-    #"git lfs"
+    "cmake"
     #"package-2"
 )
 
 PIP_PACKAGES=(
+    "wheel"
     "gdown"
     "dlib"
 )
